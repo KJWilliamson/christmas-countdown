@@ -1,0 +1,45 @@
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/background-size */
+
+* {
+    box-sizing: border-box;
+  }
+  
+  h1 {
+    color: white;
+    font-size: 4rem;
+  }
+  
+  body {
+    background-image: url("https://images.unsplash.com/photo-1608096299230-81c7b43d5dfc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTA5fHxjaHJpc3RtYXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60");
+    background-size: 1500px 700px;
+    align-items: center;
+    color: white;
+    min-height: 100vh;
+    font-family: "Zen Loop", cursive;
+    margin: 0;
+    font-weight: bolder;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .countdown-container {
+    display: flex;
+  }
+  
+  .big-text {
+    color: rgb(13, 145, 139);
+    font-size: 6rem;
+    line-height: 1;
+    margin: 0 2rem;
+    font-weight: bolder;
+  }
+  
+  .countdown-all {
+    text-align: center;
+  }
+  
+  .countdown-all span {
+    font-size: 2rem;
+  }
+
+  
