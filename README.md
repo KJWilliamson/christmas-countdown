@@ -1,5 +1,6 @@
 # christmas-countdown
 
+*need to make mobile friendly*
 
 https://a-christmas-countdown.netlify.app/
 
