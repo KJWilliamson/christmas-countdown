@@ -1,7 +1,11 @@
-# christmas-countdown
+## Countdown to Christmas webapp
+* Christmas design
 
 *need to make mobile friendly*
 
 https://a-christmas-countdown.netlify.app/
 
-![christmas](https://user-images.githubusercontent.com/24884380/180589253-b53c629b-11cb-4cb8-a548-f4633721935d.jpg)
+
+![Screen Shot 2022-10-11 at 4 58 17 PM](https://user-images.githubusercontent.com/24884380/195219783-06c85e16-269f-49d4-aace-3693bbedd5a5.png)
+
+
